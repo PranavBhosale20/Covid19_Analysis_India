@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+
 # Covid19 Analysis - India
 
 This project provides a data-driven analysis of the COVID-19 pandemic in India using Python, Pandas, and Matplotlib.
